@@ -1,1 +1,1 @@
-[Documentation](https://github.com/deep-foundation/Documentation/wiki)
+https://github.com/deep-foundation/Documentation/wiki
